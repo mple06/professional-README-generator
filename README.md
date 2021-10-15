@@ -28,6 +28,9 @@ You can watch a video on how to use it here.
 
 https://watch.screencastify.com/v/dW8GUdZhxpQWdHJl551m
 
+Link to GitHub Url:
+https://mple06.github.io/professional-README-generator/
+
 ---
 
 ## Usage
