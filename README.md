@@ -1,13 +1,16 @@
-
-# HALO
+# PROFESSIONAL README
 
 ## Description
 
-i want to build a game
+I built a professional backend README.md application to be easily used by anyone. Afterall, a README is one of the first thing developer will look at so you want to ensure it is polished and stands out.
+
+    - As a new developer, I didn't really used README's at first. But now that I understand the importance of it, I want to make sure I spend time creating a clean, professional README.
+    - I hope it will make it easier and clearer for new developers coming into the field.
 
 ---
 
 ## Table of Contents (Optional)
+
 - [Installation](#installation)
 - [Usage](#usage)
 - [How to Contribute](#contribute)
@@ -20,31 +23,35 @@ i want to build a game
 
 ## Installation
 
-ok
+You can watch a video on how to use it here.
+
+https://watch.screencastify.com/v/dW8GUdZhxpQWdHJl551m
 
 ---
 
 ## Usage
 
-ok
+NA
 
 ---
 
 ## Contribute
 
-ok
+NA
 
 ---
 
 ## Tests
 
-ok
+Testing was done by myself.
 
 ---
 
 ## Credits
 
-none
+Credits to the standard library, Inquirer, and Lukas for the badges.
+
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 ---
 
@@ -56,8 +63,8 @@ MIT ![Image of MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Questions?
 
-GitHub: https://www.github.com/mple06 
-
+GitHub: https://www.github.com/mple06
 
 Reach me at mple330@gmail.com
+
     
