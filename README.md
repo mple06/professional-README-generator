@@ -2,9 +2,9 @@
 
 ## Description
 
-I built a professional backend README.md application to be easily used by anyone. Afterall, a README is one of the first thing developer will look at so you want to ensure it is polished and stands out.
+I built a backend professional README.md application to be easily used by anyone. Afterall, a README is one of the first thing developer will look at so you want to ensure it is polished and stands out.
 
-    - As a new developer, I didn't really used README's at first. But now that I understand the importance of it, I want to make sure I spend time creating a clean, professional README.
+    - As a new developer, I didn't really used README's at first. But now that I understand the importance of it, I want to make sure I spend time creating a clean,        professional README.
     - I hope it will make it easier and clearer for new developers coming into the field.
 
 ---
